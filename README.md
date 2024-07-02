@@ -9,7 +9,7 @@ Stuff I'm doing:
 
 ## Public Speaking
 
-- "Hiding Payloads in Plain .text" (Confirmed; to be announced) @ DEF CON 32 ICS Village 2024 
+- ["Hiding Payloads in Plain .text"](https://forum.defcon.org/node/249629) @ DEF CON 32 Demo Labs 2024 
 - ["Hiding Payloads in Plain .text"](https://www.sans.org/cyber-security-training-events/pen-test-hackfest-europe-amsterdam-2024/) @ SANS Pen Test HackFest Summit 2024
 - ["Hiding Payloads in Plain .text"](https://www.x33fcon.com/#!s/MoritzLaurinThomas.md) @ x33fcon 2024
 - ["Introducing CS2BR - Teaching Badgers new Tricks"](http://2023.video.sector.ca/video/883360858) @ SecTor 2023
