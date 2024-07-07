@@ -9,12 +9,13 @@ Stuff I'm doing:
 
 ## Public Speaking
 
-- ["Hiding Payloads in Plain .text"](https://forum.defcon.org/node/249629) @ DEF CON 32 Demo Labs 2024 
-- ["Hiding Payloads in Plain .text"](https://www.sans.org/cyber-security-training-events/pen-test-hackfest-europe-amsterdam-2024/) @ SANS Pen Test HackFest Summit 2024
-- ["Hiding Payloads in Plain .text"](https://www.x33fcon.com/#!s/MoritzLaurinThomas.md) @ x33fcon 2024
-- ["Introducing CS2BR - Teaching Badgers new Tricks"](http://2023.video.sector.ca/video/883360858) @ SecTor 2023
-- ["Introducing CS2BR - Teaching Badgers new Tricks"](https://x.com/hashtag/redtreat23) @ RedTreat 2023
-- ["Introducing CS2BR - Teaching Badgers new Tricks"](https://bsidesfrankfurt.org/2023/2023/schedule/schedule.html) @ BSides:Frankfurt 2023
-- ["Building an ICS Firing Range"](https://www.youtube.com/watch?v=ob1QTs1e-x0) @ BSides:Munich 2022
-- ["Building an ICS Firing Range"](https://www.youtube.com/watch?v=_mA0NYzir4A) @ SANS Pen Test HackFest Summit 2021
-- ["Building an ICS Firing Range"](https://www.youtube.com/watch?v=3C2iRzecnWI) @ DEF CON 29 ICS Village 2021
+- ["Volatile Vault - Data Exfiltration in 2024"](https://defcon.org/html/defcon-32/dc-32-demolabs.html#54170) @ DEF CON 32 Demo Labs, Las Vegas NV USA, 2024
+- ["CODASM - Hiding Payloads in Plain .text"](https://defcon.org/html/defcon-32/dc-32-demolabs.html#54189) @ DEF CON 32 Demo Labs, Las Vegas NV USA, 2024 
+- ["Hiding Payloads in Plain .text"](https://www.sans.org/cyber-security-training-events/pen-test-hackfest-europe-amsterdam-2024/) @ SANS Pen Test HackFest Summit, Amsterdam NL, 2024
+- ["Hiding Payloads in Plain .text"](https://www.x33fcon.com/#!s/MoritzLaurinThomas.md) @ x33fcon, Gdynia PL, 2024
+- ["Introducing CS2BR - Teaching Badgers new Tricks"](http://2023.video.sector.ca/video/883360858) @ SecTor, Toronto CA, 2023
+- ["Introducing CS2BR - Teaching Badgers new Tricks"](https://x.com/hashtag/redtreat23) @ RedTreat, Amsterdam NL, 2023
+- ["Introducing CS2BR - Teaching Badgers new Tricks"](https://bsidesfrankfurt.org/2023/2023/schedule/schedule.html) @ BSides:Frankfurt, Frankfurt am Main DE, 2023
+- ["Building an ICS Firing Range"](https://www.youtube.com/watch?v=ob1QTs1e-x0) @ BSides:Munich, Munich DE, 2022
+- ["Building an ICS Firing Range"](https://www.youtube.com/watch?v=_mA0NYzir4A) @ SANS Pen Test HackFest Summit, Online, 2021
+- ["Building an ICS Firing Range"](https://www.youtube.com/watch?v=3C2iRzecnWI) @ DEF CON 29 ICS Village, Online, 2021
