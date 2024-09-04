@@ -9,6 +9,8 @@ Stuff I'm doing:
 
 ## Public Speaking
 
+- ["Du bist nicht du, wenn du ein Physical Red Team durchführst"](https://secit-digital.de/programm) @ secIT digital, Hannover DE, 2024
+- ["Let's Get Physical: Stories From Behing Your Company's Gates"](https://2024.bsidesmunich.org/talks/001-08_XFZLKA_lets-get-physical-stories-from-behind-your-companys-gate/) @ BSides Munich, Munich DE, 2024
 - ["Volatile Vault - Data Exfiltration in 2024"](https://defcon.org/html/defcon-32/dc-32-demolabs.html#54170) @ DEF CON 32 Demo Labs, Las Vegas NV USA, 2024
 - ["CODASM - Hiding Payloads in Plain .text"](https://defcon.org/html/defcon-32/dc-32-demolabs.html#54189) @ DEF CON 32 Demo Labs, Las Vegas NV USA, 2024 
 - ["Hiding Payloads in Plain .text"](https://www.sans.org/cyber-security-training-events/pen-test-hackfest-europe-amsterdam-2024/) @ SANS Pen Test HackFest Summit, Amsterdam NL, 2024
