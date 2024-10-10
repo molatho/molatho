@@ -9,6 +9,9 @@ Stuff I'm doing:
 
 ## Public Speaking
 
+- ["Volatile Vault - Data Exfiltration in 2024"](https://www.blackhat.com/sector/2024/arsenal/schedule/index.html#volatile-vault-data-exfiltration-in--41248) @ SecTor Arsenal, Toronto CA, 2024
+- ["CODASM - Hiding Payloads in Plain .text"](https://www.blackhat.com/sector/2024/arsenal/schedule/index.html#codasm-hiding-payloads-in-plain-text-41240) @ SecTor Arsenal, Toronto CA, 2024
+- ["Hiding Payloads in Plain .text"](https://www.blackhat.com/sector/2024/briefings/schedule/index.html#hiding-payloads-in-plain-text-41239) @ SecTor Briefing, Toronto CA, 2024
 - ["Du bist nicht du, wenn du ein Physical Red Team durchführst"](https://secit-digital.de/programm) @ secIT digital, Hannover DE, 2024
 - ["Let's Get Physical: Stories From Behing Your Company's Gates"](https://2024.bsidesmunich.org/talks/001-08_XFZLKA_lets-get-physical-stories-from-behind-your-companys-gate/) @ BSides Munich, Munich DE, 2024
 - ["Volatile Vault - Data Exfiltration in 2024"](https://defcon.org/html/defcon-32/dc-32-demolabs.html#54170) @ DEF CON 32 Demo Labs, Las Vegas NV USA, 2024
