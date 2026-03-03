@@ -10,6 +10,13 @@ Stuff I'm doing:
 ## Public Speaking
 What can I say, I like to talk about the things I'm doing!
 
+### 2026
+- ["Behind Closed Doors - Physical Red Team Tactics"](https://disobey.fi/2026/profile/disobey-2026-395-behind-closed-doors-physical-red-team-tactics) @ Disobey, Helsinki FI, 2026
+
+### 2025
+- ["Behind Closed Doors: Physical Red Team Tactics"](https://bsidesfrankfurt.org/2025/schedule/schedule.html) @ BSides Frankfurt, Frankfurt DE, 2025
+- ["You’re not you when you’re performing a physical red team"](https://www.securityforum.at/) @ Security Forum, Hagenberg AT, 2025
+
 ### 2024
 - ["Let's Get Physical: Stories From Behing Your Company's Gates"](https://www.eco.de/event/ihrwegzurcyberresilienz/) @ eco Verband, Cologne DE, 2024
 - ["Let's Get Physical: Stories From Behing Your Company's Gates"](https://www.youtube.com/watch?v=57Wndc1DRfU) @ BSides Munich, Munich DE, 2024
