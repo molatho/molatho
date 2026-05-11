@@ -11,6 +11,7 @@ Stuff I'm doing:
 What can I say, I like to talk about the things I'm doing!
 
 ### 2026
+- "Hiding Payloads in Plain .text" @ BMW Cyber Security Summit, Munich DE, 2026
 - ["Behind Closed Doors - Physical Red Team Tactics"](https://disobey.fi/2026/profile/disobey-2026-395-behind-closed-doors-physical-red-team-tactics) @ Disobey, Helsinki FI, 2026
 
 ### 2025
